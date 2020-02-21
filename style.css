@@ -1,0 +1,61 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background-color: #777;
+    width: 960px;
+    font-size: 18px;  
+}
+
+DIV.header {
+    background-color: #ebebeb;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    width: 960px;
+    color: #777;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 100px;
+    text-align: center;
+    vertical-align: text-bottom;
+}
+
+nav {
+    background-color: #ebebeb;
+    font-size: 18px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: 960px;
+    color: #777;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 100px;
+    text-align: center;
+    margin-top: 15px;
+    vertical-align: text-bottom;
+}
+
+section {
+    background-color: #ebebeb ;
+    font-size: 18px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: 495px;
+    color: #777;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 20px;
+    height: 300px;
+}
+
+article {
+    color: #ebebeb;
+    background-color: #777;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 200px;
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    
+}
